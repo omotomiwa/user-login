@@ -1,0 +1,42 @@
+.left{
+ height: 100%;
+background-color: white;
+width:  70vw;
+float: right;  
+
+}
+
+.right{
+    
+   background-color: whitesmoke;
+   height: 140%;
+ }
+.forms{
+    position: absolute;
+    margin-left: 70px;
+    margin-top: 200px;
+}   
+.password{
+    float: right;
+    text-align: center;
+    margin-left: px;
+}
+#err{
+    color: red;
+}
+#error{
+    color: red;
+}
+.instanta{
+    text-align: center;
+    margin-top: 410px;
+}
+.fieldco{
+    margin-top: 90px;
+}
+.footer{
+    position: absolute;
+    bottom: 20px;
+    left: 100px;
+    font-size: 18px;
+}
